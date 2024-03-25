@@ -1,3 +1,6 @@
+# This Fork
+I will be attempting (add the transcription at current cursor and see if its possible to use offline whisper installation)
+
 # Speech-to-text in Obsidian using OpenAI Whisper 🗣️📝
 
 Obsidian Whisper is a plugin that effortlessly turns your speech into written notes. Just speak your mind, and let [Whisper](https://openai.com/research/whisper) from OpenAI do the rest!
